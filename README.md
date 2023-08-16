@@ -1,4 +1,4 @@
-This file creates a front-end user interface for the fund me contract.
+This file creates a front-end user interface to directly interact with the fund me contract.
 Using the button user can connect to the Ethereum wallet, fund the contract, withdraw money from the contract
 , and can look at the balance of the contract.
 It roughly looks like this
